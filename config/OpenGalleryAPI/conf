@@ -1,0 +1,4 @@
+SERVICE_NAME = OpenGalleryAPI
+SERVICE_TYPE = fe
+RELEASE_PROJECT = MicloudAPI-OpenGallery
+RELEASE_DIR = target/MicloudAPI-OpenGallery-0.0.1-SNAPSHOT

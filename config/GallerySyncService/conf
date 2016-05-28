@@ -1,0 +1,5 @@
+SERVICE_NAME = GallerySyncService
+SERVICE_TYPE = mt
+RELEASE_PROJECT = MicloudMidTier
+COMPILE_ARG = GallerySyncService=true
+RELEASE_DIR = target/appassembler
